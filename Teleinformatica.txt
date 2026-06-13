@@ -1,0 +1,11 @@
+Teleinformatica
+
+Nombre: Jackson
+Fecha: 17/05/2026
+Repositorio: AR-Zamudioc
+
+Contenido:
+-Conseptos basicos de Teleinformatica
+-Redes de computadoras
+-Protocolos de transmision de datos
+-Arquitectura cliente-servidor
