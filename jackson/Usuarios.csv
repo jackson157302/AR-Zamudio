@@ -1,0 +1,5 @@
+Cuenta,Nombres,Apellidos,Cargo,Dependencia,Oficina,Telefono,Email,Compania,Ciudad,Estado
+U1,Johan,Rodriguez,Gerente,Administrativo,Oficina001,3123123123,johan_Rod@gmail.com,Telmex,Bogota,Activo
+L2,Edwar,Gonzalez,TI,Infraestructura,Oficina100,3003003003,edwar_Gon@gmail.com,Telecom,Medellin,Activo
+U3,John,Romero,SoporteTecnico,MesaDeAyuda,Oficina1000,3503503503,john_rom@gmail.com,Patprimo,Tolima,Activo
+U4,jack,Cifuentes,AnalistaDeRedes,Infraestructura,Oficina10,3213213213,jack_cif@gmail.com,Fractalia,Bogota,Activo
